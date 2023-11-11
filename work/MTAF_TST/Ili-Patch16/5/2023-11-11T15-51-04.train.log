@@ -1,0 +1,2 @@
+INFO:train:2023-11-11T15-51-04:Namespace(T_P=40, T_S=46, batch_size=4, checkpoint='work/models/P_S/2021-10-06T18:25:41.pk', classes=6, dim_weight=128, do='train', dropout=0.01, epochs=1, in_channels_P=4, in_channels_S=2, lamdam=0.5, last_epoch=-1, lr=0.0001, lradj='type1', net_G='MTAF_TST', num_workers=8, order=5, patch_size=16, root_dir='data/dataset/Ili-Patch16')
+INFO:train:2023-11-11T15-51-04:Epoch:1/1, lr=0.0001
