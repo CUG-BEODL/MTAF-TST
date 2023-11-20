@@ -28,11 +28,11 @@
 @ARTICLE{10308638,
   author={Yan, Jining and Liu, Jingwei and Liang, Dong and Wang, Yi and Li, Jun and Wang, Lizhe},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Semantic segmentation of land cover in urban areas by fusing multi-source satellite image time series}, 
+  title={Semantic Segmentation of Land Cover in Urban Areas by Fusing Multisource Satellite Image Time Series}, 
   year={2023},
-  volume={},
+  volume={61},
   number={},
-  pages={1-1},
+  pages={1-15},
   doi={10.1109/TGRS.2023.3329709}}
 ```
 
